@@ -29,7 +29,7 @@ To get a local copy up and running, follow these simple steps:
 2. Navigate to the project directory.
 3. Open the HTML files in a web browser to view the project.
 
-You can also visit and create an account on the [EMA Famille](https://www.emafamille.fr) website!
+You can also visit and create an account on the EMA Famille website at https://www.emafamille.fr!
 
 ## Contribution
 Contributions to improve EmaFamilleFront are always welcome. Whether it's bug fixes, feature additions, or improvements in documentation, your help is much appreciated.
