@@ -17,14 +17,20 @@ EmaFamilleFront is a social network application with an interface similar to Ins
 
 ### Interface
 
-<img width="1066" alt="image" src="https://github.com/arthur-ru/EmaFamilleFront/assets/123634659/fe6439bc-e242-413f-a97d-8f23986f22fb">
-*Feed page*
+<div align="center">
+  <img width="1066" alt="image" src="https://github.com/arthur-ru/EmaFamilleFront/assets/123634659/fe6439bc-e242-413f-a97d-8f23986f22fb">
+  <p><i>*Feed page*</i></p>
+</div>
 
-<img width="1065" alt="image" src="https://github.com/arthur-ru/EmaFamilleFront/assets/123634659/314ee3c0-d904-4994-ac18-f84961343655">
-*Group creation page*
+<div align="center">
+  <img width="1065" alt="image" src="https://github.com/arthur-ru/EmaFamilleFront/assets/123634659/314ee3c0-d904-4994-ac18-f84961343655">
+  <p><i>*Group creation page*</i></p>
+</div>
 
-<img width="764" alt="image" src="https://github.com/arthur-ru/EmaFamilleFront/assets/123634659/e846d5ac-874f-485f-9a61-39815991f24a">
-*Profile page*
+<div align="center">
+  <img width="764" alt="image" src="https://github.com/arthur-ru/EmaFamilleFront/assets/123634659/e846d5ac-874f-485f-9a61-39815991f24a">
+  <p><i>*Profile page*</i></p>
+</div>
 
 ## Getting Started
 To get a local copy up and running, follow these simple steps:
